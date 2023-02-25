@@ -7,3 +7,6 @@
 ||log.fc.yahoo.com^
 ||app.getsentry.com^
 ||widgets.pinterest.com^
+||ads-api.tiktok.com^
+||udc.yahoo.com^
+||appmetrica.yandex.ru^
