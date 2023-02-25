@@ -4,5 +4,6 @@
 ||api.bugsnag.com^
 ||app.bugsnag.com^
 ||browser.sentry-cdn.com^
+||log.fc.yahoo.com^
 ||app.getsentry.com^
 ||widgets.pinterest.com^
