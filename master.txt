@@ -16,3 +16,9 @@
 ||grs.hicloud.com^
 ||bdapi-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
+
+
+/ads.js
+/pagead.js
+/partnerads.js
+/partner.ad.js
