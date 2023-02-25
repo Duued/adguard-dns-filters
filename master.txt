@@ -10,3 +10,5 @@
 ||ads-api.tiktok.com^
 ||udc.yahoo.com^
 ||appmetrica.yandex.ru^
+||business-api.tiktok.com^
+||udcm.yahoo.com^
