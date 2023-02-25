@@ -15,3 +15,4 @@
 ||bdapi-ads.realmemobile.com^
 ||ck.ads.oppomobile.com^
 ||grs.hicloud.com^
+||bdapi-in-ads.realmemobile.com^
