@@ -1,0 +1,1 @@
+# Forces safe search but unlike the other one blocks search engines with no safe search or where it cannot be enforced by DNS.
