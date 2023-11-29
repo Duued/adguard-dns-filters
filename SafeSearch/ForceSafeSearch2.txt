@@ -1,1 +1,8 @@
 # Forces safe search but unlike the other one blocks search engines with no safe search or where it cannot be enforced by DNS.
+||google.com^$dnsrewrite=CNAME;forcesafesearch.google.com
+||bing.com^$dnsrewrite=CNAME;strict.bing.com
+
+||search.brave.com^
+||ecosia.org^
+||yahoo.com^
+||you.com^
