@@ -6,3 +6,4 @@
 ||ecosia.org^
 ||yahoo.com^
 ||you.com^
+||duckduckgo.com^
